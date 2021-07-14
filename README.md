@@ -1,4 +1,7 @@
 # EXAM
+#Copy this code and go to Thermux to create a nano file and paste it there.
+#How to create a nano file nano t.py
+
 a=int(input("ENTER YOUR-Exam Results:"))
 if a >=75:
   print ("YOUR GRADE IS _a_😀")
